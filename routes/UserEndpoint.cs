@@ -1,6 +1,6 @@
 ﻿namespace schedule_api.routes
 {
-    public static class UserRoutes
+    public static class UserEndpoint
     {
        public static void AddUserRoutes( this WebApplication app)
         {
